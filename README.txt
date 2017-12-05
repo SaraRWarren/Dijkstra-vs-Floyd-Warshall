@@ -1,9 +1,4 @@
-Sara Warren
-srw0207
-4110s001 
-sp17proj
 
-README
 ***************************************************************
 How to compile: 
 >standard compilation, no flags needed to compile
